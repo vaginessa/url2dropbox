@@ -1,0 +1,24 @@
+{
+  "name": "url2dropbox",
+  "version": "0.0.1",
+  "description": "Save a url to your dropbox",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^2.3.3",
+    "express": "^4.13.3",
+    "pg": "^4.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukaskollmer/url2dropbox"
+  },
+  "keywords": [
+    "url",
+    "dropbox"
+  ],
+  "author": "Lukas Kollmer",
+  "license": "MIT"
+}
